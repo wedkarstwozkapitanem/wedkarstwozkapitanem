@@ -1,4 +1,4 @@
-# Hi there 👋
+# Cześć tu kapitan wita w repozytorium kodu 🙋🏻
 ### https://wedkarstwozkapitanem.github.io/
 <!--
 **wedkarstwozkapitanem/wedkarstwozkapitanem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
